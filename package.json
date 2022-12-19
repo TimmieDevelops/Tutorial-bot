@@ -1,0 +1,25 @@
+{
+  "name": "timfnbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimFN/TimFNBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimFN/TimFNBot/issues"
+  },
+  "homepage": "https://github.com/TimFN/TimFNBot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^1.5.0",
+    "discord-api-types": "^0.37.23",
+    "discord.js": "^13.12.0"
+  }
+}
